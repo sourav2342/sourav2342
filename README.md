@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sourav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 👯 I’m looking to collaborate on [superbase](https://github.com/supabase/supabase)
+-   I'm currently looking for an Intern opportunity
 
 - 💬 Ask me about **react,tailwindcss, mern**
 
