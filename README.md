@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sourav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [chat-app](https://github.com/sourav2342/chatapp-mern)
+
 
 - 👯 I’m looking to collaborate on [superbase](https://github.com/supabase/supabase)
 
