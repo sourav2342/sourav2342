@@ -3,7 +3,7 @@
 
 -   I'm currently looking for an Intern opportunity
 
-- 💬 Ask me about **react,tailwindcss, mern**
+- 💬 Ask me about **React, Tailwindcss, MERN stack**
 
 - 📫 How to reach me **raavisourav@gmail.com**
 
